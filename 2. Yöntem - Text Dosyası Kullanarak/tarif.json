@@ -1,0 +1,417 @@
+[
+  {
+    "id": 1,
+    "isim": "Acý Soslu Makarna",
+    "malzemeler": [
+      "yarým paket makarna",
+      "sýcak su",
+      "tuz",
+      "sývý yað",
+      "1 orta boy soðan",
+      "3 diþ sarýmsak",
+      "2 acýlý yeþil biber",
+      "1 büyük boy domates",
+      "1 kaþýk salça",
+      "nane",
+      "kimyon",
+      "karabiber",
+      "nane",
+      "kekik",
+      "pul biber",
+      "kýrmýzý toz biber",
+      "sývýyað",
+      "makarna suyu"
+    ],
+    "talimatlar": [
+      "Kaynayan suya öncelikle bir tatlý kaþýðý tuzu atarak makarnamýzý ilave ediyoruz ve üzerine sývý yað gezdiriyoruz",
+      "Sos için soðan ve sarýmsaðý incecik rendeliyoruz",
+      "Yaðda kavuruyoruz",
+      "Daha sonra biberleri ekleyerek kavurmaya devam ediyoruz",
+      "Salçayý ve baharatlarý ekliyoruz",
+      "En son incecik doðranmýþ domatesleri de ekleyerek sosu iyice karýþtýrýyor ve dilediðiniz miktarda makarna suyundan ekliyoruz",
+      " Makarnamýzý süzüp tabaða alýp üzerine sosumuzu dökerek servis ediyoruz"
+    ],
+    "kategori": "aparatifler",
+    "puan": 7
+  },
+  {
+    "id": 2,
+    "isim": "Çiðköfte",
+    "malzemeler": [
+      "2 su bardaðý ince bulgur",
+      "1 orta boy soðan",
+      "2 diþ sarýmsak",
+      "1 tatlý kaþýðý dolusu biber salçasý",
+      "1 tatlý kaþýðý dolusu biber salçasý",
+      "3 yemek kaþýðý siyah pulbiber",
+      "Yarým demet maydanoz",
+      "1 çay kaþýðý kiþniþ",
+      "1 çay kaþýðý kimyon",
+      "1 çay kaþýðý reyhan"
+    ],
+    "talimatlar": [
+      "Maydanoz doðrayalým",
+      "Bir köþede köftenin bitim aþamasýna kadar beklesin",
+      "Soðaný sarýmsaðý doðrayalým ve çið köfte leðenine koyalým",
+      "Maydanoz dýþýnda tüm malzemeleri ve iyice yoðuralým",
+      "Arada biraz ellerimizi ýslatalým",
+      "En son maydanoz ekleyip bir dakika daha yoðurup servis edelim"
+    ],
+    "kategori": "aparatifler",
+    "puan": 10
+  },
+  {
+    "id": 3,
+    "isim": "Zeytinyaðlý Barbunya",
+    "malzemeler": [
+      "Yarým kilo barbunya",
+      "2 küçük boy soðan",
+      "2 diþ sarýmsak",
+      "2 adet acý sivri biber",
+      "1 adet domates",
+      "6-7 sap maydanoz",
+      "Tuz",
+      "Acý kýrmýzý biber",
+      "Zeytinyað",
+      "1 çay bardaðý zeytinyað",
+      "1 kaþýk domates salçasý"
+    ],
+    "talimatlar": [
+      "Barbunyayý ayýklayýp yýkýyoruz bir tencerede üzerini geçecek kadar su koyup 10 dk kadar haþlýyoruz",
+      "Haþlanan barbunyalarý süzüp bekletiyoruz",
+      "Tenceremize 1 çay bardaðý zeytinyaðýný 2 adet soðan ve 2 diþ sarýmsaðý kavuruyoruz",
+      "4-5 dk kadar sonra küp küp doðradýðýmýz patatesleri atýyoruz",
+      "Tencereye küp küp doðradýðýmýz domatesi 2 adet sivri biberi içerisine 1 yemek kaþýðý salçayý katýp biraz daha kavuruyoruz",
+      "Domatesler piþtikten sonra haþladýðýmýz barbunyalarý ilave ediyoruz",
+      "Yemeðimizin üzerine çýkacak þekilde sýcak su ilave ediyoruz",
+      "Tuz ve acý biberini ekleyip fokurdamaya baþlayýnca kýsýk ateþte aðzý kapalý piþmeye býrakýyoruz",
+      "30 dk kadar barbunyamýz yumuþadýðýnda ocaðý kapatýyoruz",
+      "1 gün dolapta dinlenince daha lezzetli oluyor",
+      "Servis esnasýnda üzerine maydanoz ile süsleyebiliriz"
+    ],
+    "kategori": "bakliyat yemekleri",
+    "puan": 9
+  },
+  {
+    "id": 4,
+    "isim": "Etli kuru fasulye",
+    "malzemeler": [
+      "Kuþbaþý et",
+      "1 gece önceden suyun içinde bekletilmiþ tahmini 2-3 bardak kurufasulye",
+      "2 buçuk yemek kaþýðý salça",
+      "2 orta boy soðan",
+      "Yarým çay bardaðýndan biraz az zeytinyaðý",
+      "Tuz",
+      "karabiber",
+      "kimyon",
+      "kýrmýzý pul biber",
+      "kýrmýzý toz biber",
+      "Sýcak su"
+    ],
+    "talimatlar": [
+      "Öncelikle düdüklü tenceremize sývý yaðýmýzý koyup bir dakika sonra kuþbaþý etlerimizi ekliyoruz",
+      "Tencerenin aðzýný buharý çýkmamasý için gazete ile kapatýyoruz ki suyunu güzelce salsýn",
+      "Ara sýra etleri karýþtýrýyoruz",
+      "Sonra gazeteyi açýp suyunu salan ete yarým çay kaþýðý kimyon ekliyoruz",
+      "3-5 dakikada kimyonla beraber suyunu içine çekmeli",
+      "daha sonra iki üç yemek kaþýðý salçamýzý ekleyip biraz kavuruyoruz",
+      "Kuru fasulyemizi ekliyoruz",
+      "Hemen üzerine pul biber toz biber karabiber ekleyip 3-5 dakika da fasulye ile beraber kavuruyoruz etlerimizi",
+      "En son yemeðin üzerini yarýsý kadar geçecek þekilde sýcak suyumuzu döküyoruz",
+      "Suyu bu þekilde az koyarak yemeðin özlü olmasýný saðlýyoruz",
+      "Suyu da ekledikten sonra tuzumuzu ekleyip düdüklümüzün kapaðýný kapatýyoruz",
+      "Eðer göstergeli bir düdüklü ise 2 derecede düdüklünün düdüðü öttükten sonra 20 dakika piþiriyoruz"
+    ],
+    "kategori": "bakliyat yemekleri",
+    "puan": 10
+  },
+  {
+    "id": 5,
+    "isim": "Mercimek Corbasi",
+    "malzemeler": [
+      "1 su bardaðý kýrmýzý mercimek",
+      "1 adet soðan",
+      "3-4 yemek kaþýðý sývý yað",
+      "1 adet havuç",
+      "1 adet patates",
+      "6 su bardaðý sýcak su",
+      "1 küp Knorr et suyu bulyon",
+      "Tereyaðý",
+      "Kýrmýzý toz biber"
+    ],
+    "talimatlar": [
+      "Lokanta usulü kýrmýzý mercimek çorbasý için ilk olarak düdüklü tencereye sývý alarak yemeklik doðranmýþ soðanlarýmýzý 1-2 dakika kavuralým",
+      "Rendelenmiþ havuç ve küp küp doðranmýþ patatesleri de ilave ederek kavurmaya devam edelim",
+      "Daha sonra yýkanmýþ kýrmýzý mercimek",
+      "6 su bardaðý sýcak su ve Knorr et suyu bulyonu da ekleyelim",
+      "Çorbanýn lezzetini zenginleþtirmek için et bulyon kullanmayý tercih ettim",
+      "Düdüklü tencerenin kapaðýný kapatalým",
+      "Mercimek çorbamýz kaynadýktan sonra 10 dakika piþirelim",
+      "Ocaktan aldýðýmýz çorbayý ister süzgeçten geçirin",
+      "isterseniz de blenderdan geçirin",
+      "Ben blender kullandým",
+      "Eðer gerekiyor ise kývamýný ayarlamak için çok az sýcak su ilave edebilirsiniz",
+      "Ama kývamý iyi ise su ilave etmenize gerek yok",
+      "Nefis Lokanta usulü mercimek çorbamýz kýsa sürede hazýr",
+      "servis kaselerine alarak üzerine tereyaðýnda kýzdýrgýnýz kýrmýzý toz biberi gezdirerek servis edebilirsiniz."
+    ],
+    "kategori": "corba",
+    "puan": 1
+  },
+  {
+    "id": 6,
+    "isim": "Tarhana Corbasi",
+    "malzemeler": [
+      "3 yemek kaþýðý ev tarhanasý",
+      "1 yemek kaþýðý nane",
+      "2 yemek kaþýðý sývý yað",
+      "1 yemek kaþýðý salça",
+      "Kýrmýzý pulbiber",
+      "Karabiber",
+      "Tuz"
+    ],
+    "talimatlar": [
+      "Tenceremizin içerisine sývý yað",
+      "nane",
+      "salça",
+      "baharatlar ve tarhanayý ekleyip biraz karýþtýrarak kavuruyoruz",
+      "Su ilave ediyoruz ve devamlý karýþtýrarak piþiriyoruz(kaynayana kadar karýþtýrmazsak çorba kesilir)",
+      "Kaynadýktan sonra 5 dk daha bekleyip ocaktan alýyoruz."
+    ],
+    "kategori": "corba",
+    "puan": 9
+  },
+  {
+    "id": 7,
+    "isim": "Yoðurtlu Semizotu",
+    "malzemeler": [
+      "1 tane orta boy soðan",
+      "1 demet semizotu",
+      "1 tane rendelenmiþ domates",
+      "1 yemek kaþýðý salça",
+      "1 su bardaðý sýcak su",
+      "Tuz",
+      "pul biber",
+      "3 yemek kaþýðý yoðurt",
+      "2 diþ sarýmsak"
+    ],
+    "talimatlar": [
+      "Öncelikle 1 orta boy soðaný doðruyoruz",
+      "Tenceremize biraz zeytinyaðý katýp üzerine doðranmýþ 1 orta boy soðaný katýyoruz",
+      "Soðanlarý kavuruyoruz",
+      "Pembeleþtikten sonra 1 yemek kaþýðý salçayý katýyoruz",
+      "Üzerine doðranmýþ semizotunu ilave edip karýþtýrýn",
+      "Tuzumuzu baharatlarýmýzý ekliyoruz",
+      "Rendelenmiþ domatesi de ekleyip biraz piþtikten sonra 1 su bardaðý sýcak suyu katýn",
+      " Suyunu çekmesini bekliyoruz",
+      "Piþtikten sonra üzerine yoðurtla servis edebilirsiniz."
+    ],
+    "kategori": "diyet yemekleri",
+    "puan": 2
+  },
+  {
+    "id": 8,
+    "isim": "Kilis kebabý",
+    "malzemeler": [
+      "3 adet patates",
+      "3 kaþýk zeytinyað",
+      "2 adet sivri biber",
+      "300 gr kýyma az yaðlý",
+      "1 adet soðan büyük boy",
+      "1 kaþýk biber salçasý",
+      "1 çay kaþýðý kekik",
+      "1 çay kaþýðý yenibahar",
+      "1 çay kaþýðý sumak",
+      "1 tutam pul biber",
+      "1 tatlý kaþýðý tuz",
+      "5 adet sivri biber",
+      "5 adet küçük domates büyükse 2 adet yeterli olur",
+      "1 adet kýrmýzý biber",
+      "1 yemek kaþýðý salça ve",
+      "1 çay bardaðý su",
+      "tuz"
+    ],
+    "talimatlar": [
+      "Önce borcam veya tepsiyi biraz yaðlayýp üstüne yuvarlak patates dilimlerini dizelim tabanýn tamamýný kaplayalým bu þekilde",
+      "Sonra kýymalý harçtan patateslerin üzerine kapatalým",
+      "Üzerini dilediðiniz þekilde süsleyebilirsiniz",
+      "Süssüz bile nefis oluyor",
+      "Ben reyhan çok sevdiðim için kýymalý harca biraz kuru reyhan kattým",
+      "Hiçbir yemeðe deðiþilmez bir rayiha katýyor",
+      "Salçalý sosu da tepsinin kenarlarýna doðru ilave ediyoruz",
+      "Patatesler lokum gibi çýkýyor fýrýndan."
+    ],
+    "kategori": "diyet yemekleri",
+    "puan": 3
+  },
+  {
+    "id": 9,
+    "isim": "Köri soslu tavuk",
+    "malzemeler": [
+      "500 gram tavuk göðsü",
+      "2 tane yeþil biber",
+      "1 tane kýrmýzý biber",
+      "Sývý yað",
+      "Yarým paket krema",
+      "1. 5 çay kaþýðý köri",
+      "1 çay kaþýðý sebze baharatý",
+      "1 çay kaþýðý tuz"
+    ],
+    "talimatlar": [
+      "Tavuk etini ve biberleri julyen doðruyoruz",
+      "Tavuk etini teflon tencerede suyunu çekene kadar kavuruyoruz",
+      "Sývý yaðý ekleyip julyen doðradýðýmýz biberleri de ekleyip 6-7 dk. daha kavuruyoruz",
+      "Yarým paket kremayý tavuklarý üzerine gezdirerek döküyoruz biraz daha kavuruyoruz",
+      "Yarým paket çok gelirse bütün tavuklar krema ile kapanacak kadar krema koyun ölçüsünü istediðiniz gibi yapabilirsiniz",
+      "Köri sebze baharatý ve tuzu da ekleyip 2 dk daha kavurup rengi sarýya dönünce kapatýyoruz."
+    ],
+    "kategori": "diyet yemekleri",
+    "puan": 9
+  },
+  {
+    "id": 10,
+    "isim": "Sac kavurma",
+    "malzemeler": [
+      "1 kilo 200 gram yaðsýz dana kuþbaþý",
+      "1 büyük kuru soðan",
+      "2 kýrmýzý kapya biber",
+      "2 büyük yeþil biber",
+      "4 büyük boy domates",
+      "Yarým çay bardaðý sývý yað",
+      "1 silme tatlý kaþýðý tuz",
+      "1 tutam karabiber"
+    ],
+    "talimatlar": [
+      "Etleri küçük küçük doðrayarak sacýn içine alýp kýsýk ateþte yavaþ yavaþ suyunu salýp çekmesini bekliyoruz",
+      "Sonra içine küçük küçük doðradýðýmýz soðanýmýzla yaðý ekleyip etle birlikte kavurmaya baþlýyoruz",
+      "Biraz kavrulduktan sonra biberleri küçük küçük doðrayýp ekliyoruz",
+      "En son domatesleri kabuklarýný soyup küp küp doðrayarak ekliyoruz",
+      "Tuzunu ve karabiberini ilave ediyoruz",
+      "Kapaðýný yarým kapatarak yarý kýsýk ateþte domateslerin suyunu çekmesini bekliyoruz",
+      "Domatesler suyunu çektikten sonra yemeðimiz servise hazýrdýr",
+      "Pilav salata ve yanýnda da içecek ile harika oluyor",
+      " Benim sacým bakýr ve kapak kapatmamda ki amaçta kendi buharýnda et daha güzel piþiyor ve yumuþacýk oluyor."
+    ],
+    "kategori": "et yemekleri",
+    "puan": 10
+  },
+  {
+    "id": 11,
+    "isim": "Orman Kebabý",
+    "malzemeler": [
+      "5-6 adet patlýcan",
+      "4-5 adet patates",
+      "Yarým kilo kuþbaþý et",
+      "7-8 adet yeþil biber",
+      "4 adet domates"
+    ],
+    "talimatlar": [
+      "Patlýcanlarý doðruyoruz ve tuzlu suda bekletiyoruz",
+      "Ayný anda patatesleri de doðruyoruz",
+      "Daha sonra patlýcanlarý kýzartmaya baþlýyoruz",
+      "Patlýcanlar kýzardýktan sonra ayni tencerede patatesleri de kýzartýyoruz",
+      "Daha sonra biberleri de doðrayýp kýzartýyoruz",
+      "Biberler kýzarýrken eti de baþka bir tavada kýzartýyoruz",
+      "Bütün malzemeler kýzardýktan sonra bir tepsiye döküp malzemelerin hepsini karýþtýrýyoruz",
+      "Ardýndan bir tencereye domatesleri rendeliyoruz ve sosunu yapýyoruz."
+    ],
+    "kategori": "et yemekleri",
+    "puan": 5
+  },
+  {
+    "id": 12,
+    "isim": "Tavuklu Patatesli Sultan Kebabý",
+    "malzemeler": ["3 adet yufka", "1 kilo tavuk göðsü", "1 adet kuru soðan", "1 yemek kaþýðý domates salçasý", "1 yemek kaþýðý biber salçasý", "1 adet büyük boy patates", "1 adet patlýcan", "Karabiber", "Pulbiber", "Kimyon", "Tuz", "1, 5 yemek kaþýðý un","2 yemek kaþýðý tereyaðý", "1, 5 su bardaðý Süt", "Rendelenmiþ kaþar peyniri"
+    ],
+    "talimatlar": [
+      "Tarifimize patlýcan ve patatesimizi küçük küpler halinde doðrayýp kýzartarak baþlýyoruz."," Onlar kýzarýrken biz tavuðumuzu soteleyelim. Tavuðu kuþbaþý doðrayýp tencereye alalým.", "Tavuðun rengi beyazlayýp suyunu salýnca ince ince yemeklik doðradýðýmýz soðanlarýmýzý ekliyoruz.", "Soðanlar piþince içine salça","baharatlar ve tuzu ekleyip karýþtýrýyoruz.", "Suyunu çekene kadar piþiriyoruz.","Suyunu çektikten sonra patates ve patlýcanýmýzý ekleyip güzelce karýþtýrýyoruz.","2-3 dakika daha piþirip altýný kapatabilirsiniz.","Beþamel sosumuz için tereyaðýný eritip unu ekliyoruz.","Unun kokusu çýkana kadar piþiriyoruz.","Daha sonra sütümüzü ekleyip çýrpma teli ile içindeki pütürlükleri gideriyoruz.","Göz göz olana kadar karýþtýrarak piþiriyoruz.","Dörde böldüðümüz yufkanýn bir parçasýný kaseye yerleþtiriyoruz."," (Dýþarýda kalan kenarlarýndan koparýp içine koyun ki yufka yýrtýlmasýn. ) ","Yufkanýn içine tavuk soteyi koyup kasenin dýþýna sarkan kenarlarý üstüne kapatýyoruz. ","Yaðlanmýþ tepsiye diziyoruz."," Üzerine hazýrladýðýmýz beþamel sosunu koyuyoruz. Önceden ýsýtýlmýþ fýrýnda yufka pembeleþinceye kadar piþiriyoruz.","Servisten önce üzerine rendelediðimiz kaþar peynirini koyup fýrýnda eriterek servis edebilirsiniz."
+    ],
+    "kategori": "et yemekleri",
+    "puan": 8
+  },
+  {
+    "id": 13,
+    "isim": "Peynirli Kaþýk Dökmesi",
+    "malzemeler": [
+      "2 adet yumurta", "1 çay bardaðýndan biraz az sývý yað", "100 gram beyaz peynir", "1 su bardaðý yoðurt", "1.5 su bardaðý un 1 paket kabartma tozu", "Bir tutam maydanoz", "Tuz"
+    ],
+    "talimatlar": [
+      "Yumurta yoðurt sývý yað çýrpýlýr.","Ufalanmýþ peynir kabartma tozu tuz küçük doðranmýþ maydanoz ve un ilave edilir tekrar çýrpýlýr.","Teflon tava hafif yaðlanýr hamurdan 1 yemek kaþýðý tavaya konulur orta ateþte her iki tarafý da kýzarýncaya kadar piþirilir. "
+    ],
+    "kategori": "kahvaltýlýk tarifler",
+    "puan": 4
+  },
+  {
+    "id": 14,
+    "isim": "Beþamel Soslu Patates Graten",
+    "malzemeler": [
+      "4-5 adet orta boy patates", "Kaþar, Karabiber", "Tuz", "4 yemek kaþýðý un", "4 yemek kaþýðý tereyaðý","3 su bardaðý süt"
+    ],
+    "talimatlar": [
+      "Patatesler yuvarlak dilimler halinde dilimlenir fýrýn kabýna dizilir", "Üstüne yeteri kadar tuz ve bir çay kaþýðý kadar karabiber eklenir", "Patateslerle iyice harmanlanýr",
+"Tencere önce yað eritilir un eklenerek kavrulur", "Kokusu çýkan unun üstüne süt azar azar ve karýþtýrýlarak eklenir topaklanmamasý için elden geldiðince yavaþ eklenerek çýrpýlarak kývamlanana kadar piþirilir", "Piþen beþamel sos patateslerin üstüne yayýlýr ve 200 derece fýrýnda patatesler yumuþayana kadar piþirilir","Son olarak patatesler piþtikten sonra üstüne rendelenmiþ kaþar yayýlýr ve tekrar fýrýna atýlýr kaþarlar eriyip kýzarana kadar biraz daha piþirilir", "Sýcak servis edilir."
+    ],
+    "kategori": "Kahvaltýlýk Tarifler",
+    "puan": 8
+  },
+  {
+    "id": 15,
+    "isim": "Elmalý Pasta",
+    "malzemeler": [
+      "1 paket margarin ( oda sýcaklýðýnda )", "1 yumurta","2 yemek kaþýðý pudra þekeri", "1 çay bardaðý yoðurt", "1 çay bardaðý sývý yað", "1 paket kabartma tozu", "1 paket yumurta", "Aldýðý kadar un", "4 büyük boy elma", "1  tatlý kaþýðý tarçýn", "4 yemek kaþýðý þeker", "1 çay bardaðý çekilmiþ ceviz içi"
+    ],
+    "talimatlar": [
+      "Öncelikle elmalarý soyup rendeleyin", "Tava içerisine koyup üzerine þeker tarçýn ve cevizi ekleyip suyunu çekene kadar orta ateþte piþirin", "Soðumaya býrakýn","Un hariç bütün malzemeyi yoðurma kabýna alýp güzelce karýþtýrýn", "Unu kontrollü ekleyip kulak memesi kývamýnda yumuþak bir hamur elde edin", "Dilediðiniz þekli verip içine iç malzemesini koyun", "180 derece fýrýnda 25 ile 30 hafif kýzarana kadar piþirin."
+    ],
+    "kategori": "Kurabiye Tarifleri",
+    "puan": 5
+  },
+  {
+    "id": 16,
+    "isim": "Damla Çikolatali Kuþ Üzümlü Kurabiye",
+    "malzemeler": [
+      "125 gr tereyaðý", "1, 5 çay bardaðý toz þeker", "1 adet yumurta", "1 paket vanilin", "1 çay kaþýðý kabartma tozu", "Bir fiske tuz", "1 tatlý kaþýðý niþasta", "3-3", "5 çay bardaðý un", "1 çay kaþýðý gold kahve", "1 çay bardaðý damla çikolata", "1/2 çay bardaðý kuþ üzümü"," 1/2 çay bardaðý iri dövülmüþ fýndýk"
+    ],
+    "talimatlar": [
+      "Ýlk olarak tereyaðý  ve þekeri  karýþtýrýyoruz", "Yumurtayý ekleyip tekrar karýþtýrýyoruz", "Un tuz niþasta vanilin ve kabartma tozunu ekleyip hafif ele yapýþan yumuþak  bir hamur elde ediyoruz", "Ardýndan  kahve çikolata kuþ üzümü ve fýndýðý da ilave edip yoðurarak gereken kurabiye hamurunu elde ediyoruz", "Hamuru bir saat buzdolabýnda dinlendirdikten sonra fýrýný 170 dereceye ayarlýyoruz ve hamurdan ceviz büyüklüðünde yuvarlaklar yapýp yaðlý kaðýt serili tepsiye aralýklý diziyoruz", "Tepsiyi ýsýnan fýrýna koyup 15-20 dakika kontrollü piþiriyoruz."
+    ],
+    "kategori": "Kurabiye Tarifleri",
+    "puan": 2
+  },
+  {
+    "id": 17,
+    "isim": "Cevizli Kurabiye",
+    "malzemeler": [
+      "1 su bardaðý ceviz", "3 yemek kaþýðý tahin", "1 su bardaðý sývý yað", "1 su bardaðýndan 1 parmak eksik pudra þekeri (+2 kaþýk þeker su bardaðýn üstüme tamamlanacak )", "Yarým paket kabartma tozu", "Aldýðý kadar un"
+    ],
+    "talimatlar": [
+      "Ceviz dýþýnda bütün malzemeleri elle yoðuralým", "Cevizi ilave edelim top top þekil verelim en son üstüne de çatalla þekil verelim", "En önemlisi 150 -160 derecede yavaþ yavaþ piþmesi", "Bu süre benim fýrýnýmda 40 dakikayý buluyor."
+    ],
+    "kategori": "Kurabiye Tarifleri",
+    "puan": 3
+  },
+  {
+    "id": 18,
+    "isim": "Sebzeli Bulgur Pilavý",
+    "malzemeler": [
+      "3 adet patates", "3 adet sivri biber", "1 su bardaðý bezelye", "2 su bardaðý bulgur", "1 yemek kaþýðý domates salçasý", "2 su bardaðý domates suyu", "1 çay bardaðý sývý yað", "Tuz", "Pulbiber", "Karabiber"
+    ],
+    "talimatlar": [
+      "Ýlk olarak tencerenin içine bir çay bardaðý sývý yaðý ekliyoruz", "Sonra yað kýzarýnca küp küp doðranmýþ patateslerimi atýyorum", "Patateslerim kýzarýnca ince ince doðranmýþ biberlerimi koyuyorum", "5 dakika sonra 2 su bardaðý bulguru içine katýyoruz", "Bulguru içine ilave ettikten sonra domates suyumuzu içine ekliyoruz", "Sonra 1 su bardaðý bezelyelerimizi de ilave ettikten sonra birazcýk ta su ilave ediyoruz", "Sonra  pulbiber  tuz ve karabiber ekliyoruz sonunda mükemmel bir sebzeli bulgur elde ediyoruz."
+    ],
+    "kategori": "Pilav Tarifleri",
+    "puan": 5
+  },
+  {
+    "id": 19,
+    "isim": "Tavuklu Pilav",
+    "malzemeler": [
+      "1 parça tavuk göðsü", "1 su bardaðý pilavlýk pirinç", "2 yemek kaþýðý arpa þehriye", "Yarým su bardaðý haþlanmýþ nohut", "2 yemek kaþýðý sývý yað", "1 tatlý kaþýðý tereyað", "2 çay kaþýðý tuz"
+    ],
+    "talimatlar": [
+      "Öncelikle pirinçleri ýslatýp en az yarým saat tuzlu suda bekletiyoruz", "Pirinçler bir kenarda beklerken tavuk göðsünü haþlayýp biraz soðuyunca didikliyoruz", "Pilav tenceremizi ocaða alýp sývý yað daha sonra da þehriyeyi koyup rengi koyulaþana kadar kavuruyoruz", "Daha sonra yýkanmýþ pirinçi de ve tereyaðýný ekleyip 2-3 dk da onlarý kavuruyoruz", "Haþlanmýþ nohutu ve tavuðu haþladýðýmýz tavuk suyundan da 2 su bardaðý tavuk suyunu tuzunu ve birkaç damla limon suyu ekleyip kýsýk ateþte piþmeye býrakýyoruz", "Pilavýmýz piþerken tavuklarý da ayrý bir tavada çok az yað ve tuz ekleyerek 10 dk kadar kýzartýyoruz", "Pilav piþtikten sonra kaðýt havlu ile kapatýp demlenmeye býrakýyoruz", "Son olarak servis ederken yuvarlak bir kaseye önce kýzarttýðýmýz tavuklarý daha sonra pilavý koyup tabaða ters çeviriyoruz", "Ýsterseniz üzerine karabiber ekebilirsiniz."
+    ],
+    "kategori": "Pilav Tarifleri",
+    "puan": 7
+  }
+]
